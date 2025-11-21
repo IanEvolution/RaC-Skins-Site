@@ -1,8 +1,7 @@
 services:
-  - type: static_site
+  - type: web
     name: RRSKins
-    env: static
+    runtime: static
     branch: main
-    root: .
-    staticPublishPath: .
+    buildCommand: "" # no build step
     plan: free

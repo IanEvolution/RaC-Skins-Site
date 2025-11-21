@@ -1,0 +1,8 @@
+services:
+  - type: static_site
+    name: RRSKins
+    env: static
+    branch: main
+    root: .
+    staticPublishPath: .
+    plan: free

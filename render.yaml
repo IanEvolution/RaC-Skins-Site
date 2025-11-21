@@ -4,3 +4,4 @@ services:
     runtime: static
     branch: main
     buildCommand: "" # no build step
+    staticPublishPath: .

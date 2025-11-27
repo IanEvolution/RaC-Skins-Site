@@ -1,1 +1,2 @@
-Screenshot Holder for the mobile game ratchet and clank ranger rumble
+Screenshot Holder possible API in the future
+

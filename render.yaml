@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: RRSKins
-    runtime: static
-    branch: main
-    buildCommand: "" # no build step
-    staticPublishPath: .
